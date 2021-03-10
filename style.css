@@ -1,0 +1,114 @@
+/*body{
+	box-sizing: border-box;
+	padding: 0px;
+	margin:0px;
+}*/
+.container{
+	position: relative;
+	top: 5px;
+	width: 100%;
+	height: auto;
+}
+.container img{
+	position: relative;
+	left: 10%;
+}
+.navi{
+	position: relative;
+	top: -50px;
+	right: 10%;
+	width: 100%;
+}
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+	position: relative;
+    display: inline-block;
+    float: right;
+    top: -10px;
+}
+
+li a {
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.imag{
+	position: relative;
+	width: 100%;
+	left: 0px;
+	height: auto;
+}
+.imag img{
+	position: relative;
+	height: 450px;
+	margin: 0px;
+	top: -20px;
+	padding: 0px;
+}
+.our{
+	top: -80px;
+	position: relative;
+	text-align: center;
+}
+.our h1{
+	font-size: 2.5em;
+}
+.button1{
+    position: relative;
+    top: -220px;
+    text-align: center;
+}
+.button1 button{
+    position:relative;
+    font-size: 2.5em;
+    width:395px;
+    height: 78px;
+    margin-left: 35px;
+    border-radius:5px;
+}
+.button1 button:hover{
+	cursor: pointer;
+}
+.gal{
+    position: relative;
+    width:100%;
+    top: -60px;
+    text-align: center;
+ }
+ 
+ .star img{
+    width:150px;
+    top: 0px;
+    height: auto;
+    position: relative;
+    border-radius: 280px;
+ }
+ .star{
+    width:33%;
+    position: relative;
+    display: inline-block;
+ }
+ .seo{
+ 	position: relative;
+    text-align: center;
+    top: 0px;
+    font-size: 2em;
+ }
+ .logopara{
+    top: 0px;
+    position: relative;
+    text-align: center;
+    font-size: 1.5em;
+    width:auto;
+    margin-left:0px;
+    height: auto;
+ }
